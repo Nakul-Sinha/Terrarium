@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 A resilient serverless execution engine built with Elixir/OTP scheduling and Firecracker microVM isolation.
-
 Terrarium is designed to run untrusted workloads safely at scale. Scheduling, retries, and crash recovery are handled by OTP supervision trees, while each execution happens in a microVM boundary.
 
 ## Table of Contents

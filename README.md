@@ -1,4 +1,4 @@
-# Terrarium
+# Terrarium (beta)
 
 
 [![Elixir Version](https://img.shields.io/badge/Elixir-1.16+-4B275F?style=for-the-badge&logo=elixir)](https://elixir-lang.org/)
